@@ -1,11 +1,11 @@
 ## Clubhouse-EDA
-* We take a dive into the highly popular iOS only invite-only audio chat app, Clubhouse.
+* We take a dive into the highly popular iOS only invite-only audio chat app, Clubhouse
 * Link to the dataset - https://www.kaggle.com/johntukey/clubhouse-dataset?select=Clubhouse_Dataset_v1.db 
-* We divide users in differet clusters and analyse them based on their profile completeness.
-* User Bio is not available in the used dataset; so we analyse emojis for emoji based ad targetting similar to twitter. 
-* For analysis based on emojis a fair assumption has been made that emoji's are more of a personal touch so they provide correct information.
+* We divide users in differet clusters and analyse them based on their profile completeness
+* User Bio is not available in the used dataset; so we analyse emojis for emoji based ad targetting similar to twitter
+* For analysis based on emojis a fair assumption has been made that emoji's are more of a personal touch so they provide correct information
 ## Summary
-* The dataset has *1300515* unique user ids and **1300514** unique users.
+* The dataset has *1300515* unique user ids and **1300514** unique users
 * Each user has following details :
     1. user_id
     2. name
