@@ -4,7 +4,7 @@
 * We divide users in differet clusters and analyse them based on their profile completeness
 * User Bio is not available in the used dataset; so we analyse emojis for emoji based ad targetting similar to twitter
 * For analysis based on emojis a fair assumption has been made that emoji's are more of a personal touch so they provide correct information
-## Findings
+## Overview
 * The dataset has *1300515* unique user ids and **1300514** unique users
 * Each user has following details :
     1. user_id
@@ -19,6 +19,8 @@
     10. invited_by_user_profile
 * Columns with missing values - *photo_url, username, twitter, instagram, invited_by_user_profile*
 * 1 username had 2 unique user_id's
+
+## Findings
 * **Jared Leto, Tiffany Haddish & Van Jones** are the top followed public figures
 * **December 2020** has the highest user registration 
 * The user arer divided into **3** clusters : **Less than 1k followers, Between 1k & 10k followers & More than 10k followers**
