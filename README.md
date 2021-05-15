@@ -41,5 +41,5 @@
       metrics or startup or investor in Dogecoin
    6. One user is artist as the user has artist palette in their username (linked instagram confirms this)
    7. **Three** users have *camera emoji* in their username. Exactly one user works with filmaker/video content creator 
-   8. **Three** users work in tech
+   8. **Three** users work in techology sector
    9. **Five** users are female and **three** users are male
