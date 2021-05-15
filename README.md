@@ -4,7 +4,7 @@
 * We divide users in differet clusters and analyse them based on their profile completeness
 * User Bio is not available in the used dataset; so we analyse emojis for emoji based ad targetting similar to twitter
 * For analysis based on emojis a fair assumption has been made that emoji's are more of a personal touch so they provide correct information
-## Summary
+## Findings
 * The dataset has *1300515* unique user ids and **1300514** unique users
 * Each user has following details :
     1. user_id
